@@ -1,0 +1,16 @@
+{
+"name": "aqk99",
+"theme": "aqk99",
+"version": "5.5.10",
+"description": "aqk99 สมัครสมาชิกเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"aqk99",
+"aqk99 เครดิตฟรี",
+"aqk99 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/aqk99",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
